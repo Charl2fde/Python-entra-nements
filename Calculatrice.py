@@ -1,4 +1,3 @@
-
 def calculatrice():
     print("Sélectionnez une opération:")
     print("1. Addition")
@@ -12,7 +11,7 @@ def calculatrice():
     num2 = float(input("Entrez le deuxième nombre : "))
 
     if choix == '1':
-        resultat = addition(num1, num2)
+        resultat = num1 + num2
         print(f"Résultat : {resultat}")
     elif choix == '2':
         resultat = num1 - num2
