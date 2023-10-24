@@ -35,5 +35,20 @@
 
 # EXEMPLE 4
 
-nom = input("Entrez votre nom : ")
-print("Bonjour, " + nom)
+# nom = input("Entrez votre nom : ")
+# print("Bonjour, " + nom)
+
+
+#EXEMPLE 5 
+
+# import tkinter as tk
+
+# fenetre = tk.Tk()
+# fenetre.title("Mapremire interface graphique")
+
+# champ_texte = tk.Entry(fenetre)
+# champ_texte.pack()
+
+# fenetre.geometry("400x300")
+
+# fenetre.mainloop()
